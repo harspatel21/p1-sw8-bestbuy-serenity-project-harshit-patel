@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Store CURD test","This will create new store","ERROR","2023-01-02T00:25:22.876Z[Europe/London]","0.0","4.17"
+"Store CURD test","Verify if the store has been added to application","ERROR","2023-01-02T00:25:27.048Z[Europe/London]","0.0","4.11"
+"Store CURD test","This will update store information","ERROR","2023-01-02T00:25:31.160Z[Europe/London]","0.0","4.11"
+"Store CURD test","This will delete Store","ERROR","2023-01-02T00:25:35.277Z[Europe/London]","0.0","4.15"

@@ -1,0 +1,3 @@
+com\bestbuy\testsuits\StoreCURDTest.class
+com\bestbuy\testsuits\ProductCURDTest.class
+com\bestbuy\testbase\TestBase.class
